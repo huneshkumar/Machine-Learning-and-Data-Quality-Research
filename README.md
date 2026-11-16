@@ -8,4 +8,4 @@ The study compares clean data, missing values, feature noise,
 and their combined effects on traditional machine learning models.
 
 ```mermaid
-![alt text](mermaid-diagram.png)
+![alt text](/mermaid-diagram.png)
